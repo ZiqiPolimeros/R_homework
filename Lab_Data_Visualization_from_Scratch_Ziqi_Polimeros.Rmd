@@ -287,4 +287,13 @@ ggplot(Closure_month) +
     geom_col()
 ```
 Answer:
-The highest closure percentage happened in June, September and October. The lowest closure percentage happened in April and January
+The highest closure percentage happened in June, September and October. The lowest closure percentage happened in April and January.
+
+### Push the R file to github
+
+https://github.com/ZiqiPolimeros/R_homework/blob/main/Lab_Data_Visualization_from_Scratch_Ziqi_Polimeros.Rmd
+
+```{r pressure, echo=FALSE, fig.cap="A caption", out.width = '100%'}
+knitr::include_graphics("git.jpg")
+```
+
